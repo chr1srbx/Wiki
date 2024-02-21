@@ -37,7 +37,7 @@ To perform this downgrade, users can obtain the driver from the official AMD web
 [AMD Driver 23.7.1](https://www.amd.com/en/support/kb/release-notes/rn-rad-win-23-7-1)
 
 Discord discussion:  
-https://discord.com/channels/113536229131189693/1135362291311849698/1154795646344241303
+https://discord.com/channels/1135362291311849693/1135362291311849698/1209212296279105578
 
 ## 5. **Configuring Vulkan using Vulkan Configurator / Opening Vulkan Configurator for detection problems and FPS issues**
 Another possible solution for any AMD Driver version is directly configuring how vulkan interacts with the controller application or just opening up the configurator alone for some reason has something to do with how vulkan acts with the controller.
